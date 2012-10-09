@@ -1,0 +1,1 @@
+ Measure.d  Measure.p1:  C:/PIC_WorkSpace/AquaTempFan/Measure.c C:/PIC_WorkSpace/AquaTempFan/ADC_CTRL.H C:/PIC_WorkSpace/AquaTempFan/Measure.h

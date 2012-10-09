@@ -1,0 +1,1 @@
+ main.d  main.p1:  C:/PIC_WorkSpace/AquaTempFan/main.c C:/PIC_WorkSpace/AquaTempFan/vfd_data.h C:/PIC_WorkSpace/AquaTempFan/vfd_ctrl.h C:/PIC_WorkSpace/AquaTempFan/ADC_CTRL.H C:/PIC_WorkSpace/AquaTempFan/hw_init.h C:/PIC_WorkSpace/AquaTempFan/Measure.h C:/PIC_WorkSpace/AquaTempFan/interrupt_ctrl.h

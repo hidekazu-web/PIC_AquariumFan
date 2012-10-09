@@ -1,0 +1,1 @@
+ ADC_CTRL.d  ADC_CTRL.obj:  C:/PIC_WorkSpace/AquaTempFan/ADC_CTRL.C C:/PIC_WorkSpace/AquaTempFan/ADC_CTRL.H

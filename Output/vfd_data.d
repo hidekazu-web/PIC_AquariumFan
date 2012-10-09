@@ -1,0 +1,1 @@
+ vfd_data.d  vfd_data.p1:  C:/PIC_WorkSpace/AquaTempFan/vfd_data.c C:/PIC_WorkSpace/AquaTempFan/vfd_data.h

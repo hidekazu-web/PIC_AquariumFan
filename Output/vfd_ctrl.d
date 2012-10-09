@@ -1,0 +1,1 @@
+ vfd_ctrl.d  vfd_ctrl.p1:  C:/PIC_WorkSpace/AquaTempFan/vfd_ctrl.c C:/PIC_WorkSpace/AquaTempFan/vfd_data.h C:/PIC_WorkSpace/AquaTempFan/ADC_CTRL.H C:/PIC_WorkSpace/AquaTempFan/sub.h C:/PIC_WorkSpace/AquaTempFan/interrupt_ctrl.h
